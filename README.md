@@ -1,9 +1,9 @@
 # Marvel-Site
 Web Responsive.
 
-![Preview](public/images/pre-visualizer.png)
-![Preview](public/images/pre-visualizer.png)
-![Preview](public/images/pre-visualizer.png)
+![Preview](public/assets/MD/preview.png)
+![Preview](public/assets/MD/preview2.png)
+![Preview](public/assets/MD/preview3.png)
 
 **[Marvel-site](https://l-devjs.github.io/Marvel-Site/)**
 
