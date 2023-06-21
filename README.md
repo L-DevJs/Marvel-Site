@@ -5,7 +5,7 @@ Web Responsive.
 ![Preview](public/images/pre-visualizer.png)
 ![Preview](public/images/pre-visualizer.png)
 
-**[Marvel-site](https://l-devjs.github.io/Blackjack-21/)**
+**[Marvel-site](https://l-devjs.github.io/Marvel-Site/)**
 
 ### Uso Local
 - Clonar Repositorio
